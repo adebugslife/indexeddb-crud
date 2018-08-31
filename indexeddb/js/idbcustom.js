@@ -151,8 +151,8 @@ function updateItem(id) {
   request.onsuccess = function (e) {
     name.value      = e.target.result.name;
     codeId.value    = e.target.result.id;
-    score.value  = e.target.result.score;
-    subject.value    = e.target.result.subject;
+    score.value     = e.target.result.score;
+    subject.value   = e.target.result.subject;
   };
 }
 
