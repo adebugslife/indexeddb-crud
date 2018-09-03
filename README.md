@@ -5,10 +5,11 @@ Comparison between native IndexedDB API and using IDB library in operating CRUD 
 2. [IDB library](#)
 
 ## Coverage
-[Create](#)
-[Delete](#)
-[Update](#)
-[Delete](#)
+1. [Create Database and Table](https://github.com/adebugslife/indexeddb-crud#create-database-and-table)
+1. [Create](https://github.com/adebugslife/indexeddb-crud#create)
+2. [Read](https://github.com/adebugslife/indexeddb-crud#read)
+3. [Update](https://github.com/adebugslife/indexeddb-crud#update)
+4. [Delete](https://github.com/adebugslife/indexeddb-crud#delete)
 
 ## Create Database and Table
 **Native IndexedDB API**
@@ -284,9 +285,9 @@ function clearAllFx() {
 ```
 
 ## Reference
-See [IndexedDB API - Web APIs| MDN](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
-See [IndexedDB Promised](https://github.com/jakearchibald/idb)
-For UI: [Material Design Lite](https://getmdl.io/)
+* See [IndexedDB API - Web APIs| MDN](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+* See [IndexedDB Promised](https://github.com/jakearchibald/idb)
+* For UI: [Material Design Lite](https://getmdl.io/)
 
 
 ## Author
